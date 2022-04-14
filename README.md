@@ -2,5 +2,5 @@
 
 # Görseller
 
-![image](https://cdn.discordapp.com/attachments/952180690055753788/964124239403827210/unknown.png)
+![image](https://cdn.discordapp.com/attachments/952180690055753788/964125774212911114/unknown.png)
 ![image](https://cdn.discordapp.com/attachments/952180690055753788/964124238443331614/unknown.png)
